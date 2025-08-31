@@ -1,10 +1,11 @@
 print("Ferst commit")
 print("Branch test")
+
 print("Ferst commit")
 print("Branch test")
+
 print("Ferst commit")
 print("Branch test")
-print("Ferst commit")
-print("Branch test")
+
 print("Ferst commit")
 print("Branch test")
